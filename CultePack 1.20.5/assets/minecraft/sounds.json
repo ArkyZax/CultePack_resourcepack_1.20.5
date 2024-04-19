@@ -1,9 +1,10 @@
 {
-    "ambient.magical_forest_1.loop": {
-    "category": "master",
+    "ambient.magical_forest_1": {
     "sounds": [
-    "ambient.magical_forest_1.loop"
-  ],
-    "subtitle": "subtitles.custom.magical_forest_1"
+      {
+    "name":"ambient.magical_forest_1",
+    "stream":"true"
+      }
+  ]
   }
 }
